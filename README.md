@@ -68,7 +68,7 @@ Ngôn ngữ ký hiệu có tiềm năng lớn trong việc nâng cao khả năng
 - Sử dụng git clone: 
 - Truy cập vào thư mục "Hand-Gesture-Recognition". 
 - Tạo 1 môi trường ảo python với câu lệnh: ```python -m venv env_name ```
-- Trong đó ```env_name``` là tên môi trường mà bạn muốn đặt. Sau khi cài xong môi trường ảo kích hoạt môi trường đó thông qua câu lệnh ```python.\env_name\Script\Activate.ps1```
+- Trong đó ```env_name``` là tên môi trường mà bạn muốn đặt. Sau khi cài xong môi trường ảo kích hoạt môi trường đó thông qua câu lệnh ```.\env_name\Script\Activate.ps1```
 - Thực hiện cài đặt các package cần sử dụng thông qua câu lệnh ```python pip install -r requirements.txt ```
 
 ### Chạy chương trình

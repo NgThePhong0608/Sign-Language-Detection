@@ -12,6 +12,7 @@ Dương Xuân Đức - 20002114
 Nguyễn Kiều Trang - 20002168
 
 ## Lý do lựa chọn đề tài
+Ngôn ngữ ký hiệu có tiềm năng lớn trong việc nâng cao khả năng giao tiếp và tương tác giữa người khiếm thính/câm và những người không biết ngôn ngữ ký hiệu, cũng như đem lại sự tiện lợi và đa dạng trong việc truyền đạt thông tin và ý nghĩa.
 
 ## Cấu trúc dự án
 - requirements.txt: chứa các package sử dụng trong dự án

@@ -1,4 +1,4 @@
-# ML_Projects: Sign language detection
+# Sign language detection
 > Đây là dự án cuối kỳ đối với môn học "Học máy". Tên đề tài được chọn là "Sign language detection".
 ## Thành viên nhóm:
 Nguyễn Thế Phong - 20002150 (<b>C</b>) 
